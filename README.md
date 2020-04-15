@@ -20,3 +20,8 @@ Aplicação Front-end desenvolvida em React Native para o clone do aplicativo Ti
 ![03](https://user-images.githubusercontent.com/48495838/79370844-bf69f380-7f29-11ea-9689-e1aba9fd8c9a.jpg)
 ![04](https://user-images.githubusercontent.com/48495838/79370847-c0028a00-7f29-11ea-8665-68371115e632.png)
 ![05](https://user-images.githubusercontent.com/48495838/79370848-c09b2080-7f29-11ea-8864-54d2c69be6cb.png)
+
+
+<br><br>
+
+Renan Borba.
