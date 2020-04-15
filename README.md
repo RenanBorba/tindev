@@ -1,7 +1,7 @@
 ## Rocketseat - Semana OmniStack 8.0
 # Projeto - Aplicação Tindev
 Aplicação para o clone do aplicativo Tinder, voltada para busca e matches de devs. Permite, assim, a atualização em tempo real dos matches entre desenvolvedores via WebSocket.
-
+ 
 <br>
 
 <div align="center">
