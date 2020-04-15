@@ -1,6 +1,6 @@
 ## Rocketseat - Semana OmniStack 8.0
-# Projeto - Aplicação Tindev Mobile React Native
-Aplicação Front-end desenvolvida em React Native para o clone do aplicativo Tinder, voltada para busca e matches de devs. Permite, assim, a atualização em tempo real dos matches entre desenvolvedores via WebSocket.
+# Projeto - Aplicação Tindev
+Aplicação para o clone do aplicativo Tinder, voltada para busca e matches de devs. Permite, assim, a atualização em tempo real dos matches entre desenvolvedores via WebSocket.
 
 <br>
 
