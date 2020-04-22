@@ -5,6 +5,8 @@
 
 </div>
 
+<br>
+
 <div align="center">
  
 [![Build Status](https://img.shields.io/github/stars/RenanBorba/tindev.svg)](https://github.com/RenanBorba/tindev) [![Build Status](https://img.shields.io/github/forks/RenanBorba/tindev.svg)](https://github.com/RenanBorba/tindev)
