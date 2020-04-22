@@ -39,6 +39,11 @@ API REST de dados Back-end em Node.js MVC, desenvolvida para o clone da aplicaç
 </ul>
 <br><br>
 
+<br><br>
+
+#### Segue abaixo as principais estruturas: 
+
+<br><br><br>
 
 ## src/server.js
 ```js
