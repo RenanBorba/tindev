@@ -27,6 +27,14 @@ Aplicação Front-end desenvolvida em React Native para o clone do aplicativo Ti
 
 <br><br>
 
+<div align="center">
+
+![02](https://user-images.githubusercontent.com/48495838/74784998-f86a4c80-5287-11ea-9c8c-d3dd11c703e1.JPG)
+
+</div>
+
+<br><br>
+
 ## :rocket: Tecnologias 
 <ul> 
   <li>Expo</li> 
