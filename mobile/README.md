@@ -49,7 +49,15 @@ Aplicação Front-end desenvolvida em React Native para o clone do aplicativo Ti
 
 <br><br>
 
-#### Segue abaixo as principais estruturas e interfaces: 
+## :arrow_forward: Start
+<ul> 
+  <li>npm install</li>
+  <li>npm run start / npm start</li>
+</ul>
+
+<br><br><br>
+
+## :mega: Segue abaixo as principais estruturas e interfaces: 
 
 <br><br><br>
 
