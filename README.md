@@ -121,6 +121,9 @@ Aplicação para o clone do aplicativo Tinder, voltada para busca e matches de d
 </div>
 
 ![04](https://user-images.githubusercontent.com/48495838/79370847-c0028a00-7f29-11ea-8665-68371115e632.png)
+
+<br>
+
 ![05](https://user-images.githubusercontent.com/48495838/79370848-c09b2080-7f29-11ea-8864-54d2c69be6cb.png)
 
 
