@@ -27,6 +27,14 @@ Aplicação Front-end desenvolvida em ReactJS para o clone da versão web respon
 
 <br><br>
 
+<div align="center">
+
+![000](https://user-images.githubusercontent.com/48495838/80154891-dac2a780-8596-11ea-92d7-165acfe41924.jpg)
+
+</div>
+
+<br><br>
+
 ## :rocket: Tecnologias 
 <ul> 
   <li>Components</li>  
