@@ -50,9 +50,15 @@ Aplicação Front-end desenvolvida em ReactJS para o clone da versão web respon
 </ul>
 <br><br>
 
+## :arrow_forward: Start
+<ul> 
+  <li>npm install</li>
+  <li>npm run start / npm start</li>
+</ul>
+
 <br><br>
 
-#### Segue abaixo as principais estruturas e interfaces: 
+## :mega: Segue abaixo as principais estruturas e interfaces: 
 
 <br><br><br>
 
