@@ -27,6 +27,86 @@ Aplicação para o clone do aplicativo Tinder, voltada para busca e matches de d
  
 <br><br>
 
+## :rocket: Tecnologias
+### Node.js
+<ul>
+  <li>Nodemon</li>
+  <li>MongoDB</li>
+  <li>Mongoose</li>
+  <li>Express</li>
+  <li>Axios</li>
+  <li>Routes</li>
+  <li>Github API</li>
+  <li>Cors</li>
+  <li>Socket.io WebSocket</li>
+</ul>
+
+<br>
+
+### React Native
+<ul> 
+  <li>Expo</li> 
+  <li>Components</li> 
+  <li>Routes</li>
+  <li>react-navigation</li>
+  <li>Services API</li>
+  <li>Axios</li>
+  <li>AsyncStorage</li>
+  <li>useState</li>
+  <li>useEffect</li>
+  <li>socket.io-client WebSocket</li>
+  <li>StyleSheet</li> 
+  <li>SafeAreaView</li>
+  <li>KeyboardAvoidingView</li>
+  <li>Platform</li>
+  <li>TextInput</li> 
+  <li>TouchableOpacity</li>
+</ul>
+
+<br>
+
+### ReactJS
+<ul> 
+  <li>Components</li>  
+  <li>Routes</li>
+  <li>react-router-dom</li>
+  <li>Services API</li> 
+  <li>Axios</li>
+  <li>useState</li>
+  <li>useEffect</li>
+  <li>socket.io-client WebSocket</li>
+  <li>CSS</li> 
+  <li>theme-dracula (dark mode)</li>
+</ul>
+
+<br><br>
+
+
+## :arrow_forward: Start
+### Node.js
+<ul> 
+  <li>npm install</li>
+  <li>npm run dev / npm dev</li>
+</ul>
+
+<br>
+
+### React Native
+<ul> 
+  <li>npm install</li>
+  <li>npm run start / npm start</li>
+</ul>
+
+<br>
+
+### ReactJS
+<ul> 
+  <li>npm install</li>
+  <li>npm run start / npm start</li>
+</ul>
+
+<br><br><br>
+
 <div align="center">
  
 ![00](https://user-images.githubusercontent.com/48495838/79370839-bda03000-7f29-11ea-8abc-c71759bb410a.jpg)
