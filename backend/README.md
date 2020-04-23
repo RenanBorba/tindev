@@ -41,9 +41,16 @@ API REST de dados Back-end em Node.js MVC, desenvolvida para o clone da aplicaç
 </ul>
 <br><br>
 
-<br><br>
 
-#### Segue abaixo as principais estruturas: 
+## :arrow_forward: Start
+<ul> 
+  <li>npm install</li>
+  <li>npm run dev / npm dev</li>
+</ul>
+
+<br><br><br>
+
+## :mega: Segue abaixo as principais estruturas: 
 
 <br><br><br>
 
