@@ -27,6 +27,7 @@ Aplicação para o clone do aplicativo Tinder, voltada para busca e matches de d
  
 <br><br>
 
+
 ## :rocket: Tecnologias
 ### Node.js
 <ul>
