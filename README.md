@@ -8,7 +8,7 @@
 <br>
 
 <div align="center">
- 
+
 [![Build Status](https://img.shields.io/github/stars/RenanBorba/tindev.svg)](https://github.com/RenanBorba/tindev) [![Build Status](https://img.shields.io/github/forks/RenanBorba/tindev.svg)](https://github.com/RenanBorba/tindev)
 
 </div>
@@ -16,7 +16,7 @@
 <br><br>
 
 <div align="center">
- 
+
 ![logo](https://user-images.githubusercontent.com/48495838/80020082-d91db480-84ae-11ea-90a9-d55ba77322b2.png)
 
 </div>
@@ -26,7 +26,6 @@
 Aplicação para o clone do aplicativo Tinder, voltada para busca e matches de devs. Permite, assim, a atualização em tempo real dos matches entre desenvolvedores via WebSocket.
  
 <br><br>
-
 
 ## :rocket: Tecnologias
 ### Node.js
