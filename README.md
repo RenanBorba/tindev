@@ -22,9 +22,9 @@
 </div>
 
 <br><br>
- 
+
 Aplicação para o clone do aplicativo Tinder, voltada para busca e matches de devs. Permite, assim, a atualização em tempo real dos matches entre desenvolvedores via WebSocket.
- 
+
 <br><br>
 
 ## :rocket: Tecnologias
@@ -81,7 +81,6 @@ Aplicação para o clone do aplicativo Tinder, voltada para busca e matches de d
 
 <br><br>
 
-
 ## :arrow_forward: Start
 ### Node.js
 <ul> 
@@ -108,7 +107,7 @@ Aplicação para o clone do aplicativo Tinder, voltada para busca e matches de d
 <br><br><br>
 
 <div align="center">
- 
+
 ![00](https://user-images.githubusercontent.com/48495838/79370839-bda03000-7f29-11ea-8abc-c71759bb410a.jpg)
 ![01](https://user-images.githubusercontent.com/48495838/79370841-be38c680-7f29-11ea-8f40-7be1beb5a78e.jpg)
 
@@ -117,7 +116,7 @@ Aplicação para o clone do aplicativo Tinder, voltada para busca e matches de d
 <br>
 
 <div align="center">
- 
+
 ![02](https://user-images.githubusercontent.com/48495838/79370842-bed15d00-7f29-11ea-939e-cbb85adcab9c.jpg)
 
 </div>
