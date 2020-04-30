@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 ## Rocketseat - Semana OmniStack 8.0
 # Projeto - API Node Armazenamento Tindev Devs
 
@@ -8,7 +8,7 @@
 <br>
 
 <div align="center">
- 
+
 [![Build Status](https://img.shields.io/github/stars/RenanBorba/tindev.svg)](https://github.com/RenanBorba/tindev) [![Build Status](https://img.shields.io/github/forks/RenanBorba/tindev.svg)](https://github.com/RenanBorba/tindev)
 
 </div>
@@ -27,7 +27,7 @@ API REST de dados Back-end em Node.js MVC, desenvolvida para o clone da aplicaç
 
 <br><br>
 
-## :rocket: Tecnologias 
+## :rocket: Tecnologias
 <ul>
   <li>Nodemon</li>
   <li>MongoDB</li>
@@ -43,14 +43,14 @@ API REST de dados Back-end em Node.js MVC, desenvolvida para o clone da aplicaç
 
 
 ## :arrow_forward: Start
-<ul> 
+<ul>
   <li>npm install</li>
   <li>npm run dev / npm dev</li>
 </ul>
 
 <br><br><br>
 
-## :mega: Segue abaixo as principais estruturas: 
+## :mega: Segue abaixo as principais estruturas:
 
 <br><br><br>
 
