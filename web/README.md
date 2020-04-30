@@ -8,7 +8,7 @@
 <br>
 
 <div align="center">
- 
+
 [![Build Status](https://img.shields.io/github/stars/RenanBorba/tindev.svg)](https://github.com/RenanBorba/tindev) [![Build Status](https://img.shields.io/github/forks/RenanBorba/tindev.svg)](https://github.com/RenanBorba/tindev)
 
 </div>
@@ -16,7 +16,7 @@
 <br><br>
 
 <div align="center">
- 
+
 ![logo](https://user-images.githubusercontent.com/48495838/80020082-d91db480-84ae-11ea-90a9-d55ba77322b2.png)
 
 </div>
@@ -35,8 +35,8 @@ Aplicação Front-end desenvolvida em ReactJS para o clone da versão web respon
 
 <br><br>
 
-## :rocket: Tecnologias 
-<ul> 
+## :rocket: Tecnologias
+<ul>
   <li>Components</li>  
   <li>Routes</li>
   <li>react-router-dom</li>
@@ -51,14 +51,14 @@ Aplicação Front-end desenvolvida em ReactJS para o clone da versão web respon
 <br><br>
 
 ## :arrow_forward: Start
-<ul> 
+<ul>
   <li>npm install</li>
   <li>npm run start / npm start</li>
 </ul>
 
 <br><br>
 
-## :mega: Segue abaixo as principais estruturas e interfaces: 
+## :mega: Segue abaixo as principais estruturas e interfaces:
 
 <br><br><br>
 
@@ -426,7 +426,7 @@ export default function Main({ match }) {
 <br><br>
 
 
-## Interface após o login do usuário 
+## Interface após o login do usuário
 
 ![a1](https://user-images.githubusercontent.com/48495838/76780622-214d0700-678c-11ea-94e0-666bb8370d35.png)
 <br><br>
@@ -457,5 +457,5 @@ export default function Main({ match }) {
 ![a6](https://user-images.githubusercontent.com/48495838/76780725-43468980-678c-11ea-8140-308e6de84d40.PNG)
 <br><br>
 
-<br><br>    
+<br><br>
 Renan Borba.
