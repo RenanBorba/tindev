@@ -44,7 +44,7 @@ Aplicação para o clone do aplicativo Tinder, voltada para busca e matches de d
 <br>
 
 ### React Native
-<ul> 
+<ul>
   <li>Expo</li> 
   <li>Components</li> 
   <li>Routes</li>
@@ -66,7 +66,7 @@ Aplicação para o clone do aplicativo Tinder, voltada para busca e matches de d
 <br>
 
 ### ReactJS
-<ul> 
+<ul>
   <li>Components</li>  
   <li>Routes</li>
   <li>react-router-dom</li>
@@ -91,7 +91,7 @@ Aplicação para o clone do aplicativo Tinder, voltada para busca e matches de d
 <br>
 
 ### React Native
-<ul> 
+<ul>
   <li>npm install</li>
   <li>npm run start / npm start</li>
 </ul>
@@ -99,7 +99,7 @@ Aplicação para o clone do aplicativo Tinder, voltada para busca e matches de d
 <br>
 
 ### ReactJS
-<ul> 
+<ul>
   <li>npm install</li>
   <li>npm run start / npm start</li>
 </ul>
