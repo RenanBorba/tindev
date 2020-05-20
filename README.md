@@ -45,8 +45,8 @@ Aplicação para o clone do aplicativo Tinder, voltada para busca e matches de d
 
 ### React Native
 <ul>
-  <li>Expo</li> 
-  <li>Components</li> 
+  <li>Expo</li>
+  <li>Components</li>
   <li>Routes</li>
   <li>react-navigation</li>
   <li>Services API</li>
@@ -75,7 +75,7 @@ Aplicação para o clone do aplicativo Tinder, voltada para busca e matches de d
   <li>useState</li>
   <li>useEffect</li>
   <li>socket.io-client WebSocket</li>
-  <li>CSS</li> 
+  <li>CSS</li>
   <li>theme-dracula (dark mode)</li>
 </ul>
 
@@ -129,7 +129,7 @@ Aplicação para o clone do aplicativo Tinder, voltada para busca e matches de d
 
 ![05](https://user-images.githubusercontent.com/48495838/79370848-c09b2080-7f29-11ea-8864-54d2c69be6cb.png)
 
-
+<br>
 <br><br>
 
 Renan Borba.
