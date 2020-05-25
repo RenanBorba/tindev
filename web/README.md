@@ -37,15 +37,15 @@ Aplicação Front-end desenvolvida em ReactJS para o clone da versão web respon
 
 ## :rocket: Tecnologias
 <ul>
-  <li>Components</li>  
+  <li>Components</li>
   <li>Routes</li>
   <li>react-router-dom</li>
-  <li>Services API</li> 
+  <li>Services API</li>
   <li>Axios</li>
   <li>useState</li>
   <li>useEffect</li>
   <li>socket.io-client WebSocket</li>
-  <li>CSS</li> 
+  <li>CSS</li>
   <li>theme-dracula (dark mode)</li>
 </ul>
 <br><br>
