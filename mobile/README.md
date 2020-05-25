@@ -37,8 +37,8 @@ Aplicação Front-end desenvolvida em React Native para o clone do aplicativo Ti
 
 ## :rocket: Tecnologias
 <ul>
-  <li>Expo</li> 
-  <li>Components</li> 
+  <li>Expo</li>
+  <li>Components</li>
   <li>Routes</li>
   <li>react-navigation</li>
   <li>Services API</li>
@@ -47,11 +47,11 @@ Aplicação Front-end desenvolvida em React Native para o clone do aplicativo Ti
   <li>useState</li>
   <li>useEffect</li>
   <li>socket.io-client WebSocket</li>
-  <li>StyleSheet</li> 
+  <li>StyleSheet</li>
   <li>SafeAreaView</li>
   <li>KeyboardAvoidingView</li>
   <li>Platform</li>
-  <li>TextInput</li> 
+  <li>TextInput</li>
   <li>TouchableOpacity</li>
 </ul>
 
