@@ -1,5 +1,5 @@
 <div align="center">
-
+ 
 ## Rocketseat - Semana OmniStack 8.0
 # Projeto - API Node Armazenamento Tindev Devs
 
@@ -39,8 +39,8 @@ API REST de dados Back-end em Node.js MVC, desenvolvida para o clone da aplicaç
   <li>Cors</li>
   <li>Socket.io WebSocket</li>
 </ul>
-<br><br>
 
+<br><br>
 
 ## :arrow_forward: Start
 <ul>
@@ -310,8 +310,8 @@ module.exports = {
 };
 ```
 
-
 <br><br>
 
 <br><br>
+
 Renan Borba. 
