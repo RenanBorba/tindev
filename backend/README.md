@@ -101,9 +101,7 @@ app.use(routes);
 server.listen(3333);
 ```
 
-
 <br><br>
-
 
 ## src/routes.js
 ```js
@@ -123,9 +121,7 @@ routes.post('/devs/:devId/dislikes', DislikeController.store);
 module.exports = routes;
 ```
 
-
 <br><br>
-
 
 ## src/models/Dev.js
 ```js
@@ -162,9 +158,7 @@ const DevSchema = new Schema({
 module.exports = model('Dev', DevSchema);
 ```
 
-
 <br><br>
-
 
 ## src/controllers/DevController.js
 ```js
@@ -219,9 +213,7 @@ module.exports = {
 };
 ```
 
-
 <br><br>
-
 
 ## src/controllers/LikeController.js
 ```js
@@ -274,9 +266,7 @@ module.exports = {
 };
 ```
 
-
 <br><br>
-
 
 ## src/controllers/DislikeController.js
 ```js
@@ -310,8 +300,6 @@ module.exports = {
 };
 ```
 
-<br><br>
-
-<br><br>
+<br><br><br><br>
 
 Renan Borba. 
