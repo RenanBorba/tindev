@@ -147,6 +147,7 @@ Aplicação para o clone do aplicativo Tinder, voltada para busca e matches de d
 
 ![05](https://user-images.githubusercontent.com/48495838/79370848-c09b2080-7f29-11ea-8864-54d2c69be6cb.png)
 
-<br><br><br>
+<br><br>
+<br>
 
 Renan Borba.
