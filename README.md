@@ -25,7 +25,19 @@
 
 Aplicação para o clone do aplicativo Tinder, voltada para busca e matches de devs. Permite, assim, a atualização em tempo real dos matches entre desenvolvedores via WebSocket.
 
+<br><br><br>
+
+<div align="center">
+
+![tindev](https://user-images.githubusercontent.com/48495838/84697379-68ca6700-af24-11ea-8247-bdfb4ddd3e51.png)
+
 <br><br>
+
+![tindev-web](https://user-images.githubusercontent.com/48495838/84697378-6700a380-af24-11ea-8d5e-47d45d815fdb.png)
+
+</div>
+
+<br><br><br>
 
 ## :rocket: Tecnologias
 ### Node.js
@@ -122,30 +134,6 @@ Aplicação para o clone do aplicativo Tinder, voltada para busca e matches de d
       <li>git push origin my-feature</li>
     </ul>
 </ul>
-<br><br><br>
-
-<div align="center">
-
-![00](https://user-images.githubusercontent.com/48495838/79370839-bda03000-7f29-11ea-8abc-c71759bb410a.jpg)
-![01](https://user-images.githubusercontent.com/48495838/79370841-be38c680-7f29-11ea-8f40-7be1beb5a78e.jpg)
-
-</div>
-
-<br>
-
-<div align="center">
-
-![02](https://user-images.githubusercontent.com/48495838/79370842-bed15d00-7f29-11ea-939e-cbb85adcab9c.jpg)
-
-</div>
-
-<br>
-
-![04](https://user-images.githubusercontent.com/48495838/79370847-c0028a00-7f29-11ea-8665-68371115e632.png)
-
-<br>
-
-![05](https://user-images.githubusercontent.com/48495838/79370848-c09b2080-7f29-11ea-8864-54d2c69be6cb.png)
 
 <br><br>
 <br>
