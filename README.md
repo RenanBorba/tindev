@@ -67,11 +67,11 @@ Aplicação para o clone do aplicativo Tinder, voltada para busca e matches de d
   <li>useState</li>
   <li>useEffect</li>
   <li>socket.io-client WebSocket</li>
-  <li>StyleSheet</li> 
+  <li>StyleSheet</li>
   <li>SafeAreaView</li>
   <li>KeyboardAvoidingView</li>
   <li>Platform</li>
-  <li>TextInput</li> 
+  <li>TextInput</li>
   <li>TouchableOpacity</li>
 </ul>
 
@@ -79,10 +79,10 @@ Aplicação para o clone do aplicativo Tinder, voltada para busca e matches de d
 
 ### ReactJS
 <ul>
-  <li>Components</li>  
+  <li>Components</li>
   <li>Routes</li>
   <li>react-router-dom</li>
-  <li>Services API</li> 
+  <li>Services API</li>
   <li>Axios</li>
   <li>useState</li>
   <li>useEffect</li>
@@ -95,7 +95,7 @@ Aplicação para o clone do aplicativo Tinder, voltada para busca e matches de d
 
 ## :arrow_forward: Start
 ### Node.js
-<ul> 
+<ul>
   <li>npm install</li>
   <li>npm run dev / npm dev</li>
 </ul>
@@ -135,7 +135,6 @@ Aplicação para o clone do aplicativo Tinder, voltada para busca e matches de d
     </ul>
 </ul>
 
-<br><br>
-<br>
+<br><br><br>
 
 Renan Borba.
