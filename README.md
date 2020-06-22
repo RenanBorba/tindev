@@ -135,7 +135,6 @@ Aplicação para o clone do aplicativo Tinder, voltada para busca e matches de d
     </ul>
 </ul>
 
-<br><br>
-<br>
+<br><br><br>
 
 Renan Borba.
