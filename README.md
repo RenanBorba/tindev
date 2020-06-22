@@ -33,7 +33,7 @@ Aplicação para o clone do aplicativo Tinder, voltada para busca e matches de d
 
 <br><br>
 
-![tindev](https://user-images.githubusercontent.com/48495838/85320571-a89bcc00-b499-11ea-8c8e-44de823a6dff.png)
+![tindev](https://user-images.githubusercontent.com/48495838/85320668-ccf7a880-b499-11ea-8423-e74847630fee.png)
 
 </div>
 
