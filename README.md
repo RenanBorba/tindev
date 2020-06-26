@@ -11,21 +11,17 @@
 
 [![Generic badge](https://img.shields.io/badge/Made%20by-Renan%20Borba-purple.svg)](https://shields.io/) [![Build Status](https://img.shields.io/github/stars/RenanBorba/tindev.svg)](https://github.com/RenanBorba/tindev) [![Build Status](https://img.shields.io/github/forks/RenanBorba/tindev.svg)](https://github.com/RenanBorba/tindev) [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-</div>
-
-<br><br>
-
-<div align="center">
+<br>
 
 ![logo](https://user-images.githubusercontent.com/48495838/80020082-d91db480-84ae-11ea-90a9-d55ba77322b2.png)
 
 </div>
 
-<br><br>
+<br>
 
 Aplicação para o clone do aplicativo Tinder, voltada para busca e matches de devs. Permite, assim, a atualização em tempo real dos matches entre desenvolvedores via WebSocket.
 
-<br><br><br>
+<br><br>
 
 <div align="center">
 
