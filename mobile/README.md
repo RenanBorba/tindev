@@ -9,11 +9,11 @@
 
 <div align="center">
  
-[![Build Status](https://img.shields.io/github/stars/RenanBorba/tindev.svg)](https://github.com/RenanBorba/tindev) [![Build Status](https://img.shields.io/github/forks/RenanBorba/tindev.svg)](https://github.com/RenanBorba/tindev) [![npm version](https://badge.fury.io/js/react-native.svg)](https://badge.fury.io/js/react-native)
+[![Generic badge](https://img.shields.io/badge/Made%20by-Renan%20Borba-purple.svg)](https://shields.io/) [![Build Status](https://img.shields.io/github/stars/RenanBorba/tindev.svg)](https://github.com/RenanBorba/tindev) [![Build Status](https://img.shields.io/github/forks/RenanBorba/tindev.svg)](https://github.com/RenanBorba/tindev) [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/) [![npm version](https://badge.fury.io/js/react-native.svg)](https://badge.fury.io/js/react-native) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
  
@@ -21,7 +21,7 @@
 
 </div>
 
-<br><br>
+<br>
 
 Aplicação Front-end desenvolvida em React Native para o clone do aplicativo Tinder, voltada para busca e matches de devs. Permite, assim, a atualização em tempo real dos matches entre desenvolvedores via WebSocket.
 
@@ -389,8 +389,3 @@ export default function Main({ navigation }) {
 
 
 ![05](https://user-images.githubusercontent.com/48495838/74784478-bbea2100-5286-11ea-97ab-60646448cc26.JPG)
-<br><br>
-
- 
-<br><br>  
-Renan Borba.
