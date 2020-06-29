@@ -1,4 +1,4 @@
-<div align="center"> 
+<div align="center">
 
 ## Rocketseat - Semana OmniStack 8.0
 # Projeto - Aplicação Tindev
