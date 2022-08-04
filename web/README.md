@@ -58,7 +58,7 @@ Aplicação Front-end desenvolvida em ReactJS para o clone da versão web respon
 
 <br><br>
 
-## :mega: Segue abaixo as principais estruturas e interfaces:
+## :mega: ⬇ Abaixo as principais estruturas e interfaces:
 
 <br><br><br>
 
