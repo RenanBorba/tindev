@@ -50,7 +50,7 @@ API REST de dados Back-end em Node.js MVC, desenvolvida para o clone da aplicaç
 
 <br><br><br>
 
-## :mega: Segue abaixo as principais estruturas:
+## :mega: ⬇ Abaixo as principais estruturas:
 
 <br><br><br>
 
